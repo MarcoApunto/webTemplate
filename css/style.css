@@ -139,18 +139,15 @@ body {
 .seccion .circulos {}
 .section .circulo {}
 .seccion .ul {
-	background: red;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
 	align-items: center;
 }
 .seccion .ul .li {
-	background: lightgreen;
 	margin: 0 1em;
 }
 .seccion .ul .li .a {
-	background: lightcoral;
 }
 
 .seccion .h2 {}
@@ -214,7 +211,6 @@ body {
 	margin: 0 0 1rem;
 }
 .about .p {
-	background: lime;
 	margin: 0 0 1em;
 	text-align: center;
 }
@@ -246,5 +242,6 @@ body {
 	text-align: center;
 
 }
+
 .footer .span {
 }
